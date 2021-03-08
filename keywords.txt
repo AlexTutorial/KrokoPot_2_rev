@@ -1,0 +1,6 @@
+KrokoPot	KEYWORD1
+getPotVaule	KEYWORD2
+mapToServo	KEYWORD2
+mapToPWM	KEYWORD2
+writePWM	KEYWORD2
+getAcceleration	KEYWORD2
